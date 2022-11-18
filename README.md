@@ -34,4 +34,4 @@ Open Academic Graph 2.1 (OAG [2020]) to investigate causal links in Biblio-
 metrics data of continuous variables.
 The work on categorical CI testing is heavily based on CMIknn (Runge
 [2018]), a non-parametric test for continuous data. All the methods imple-
-mented are contributed as part of the package TIGRAMITE
+mented are contributed as part of the package TIGRAMITE (https://github.com/jakobrunge/tigramite)

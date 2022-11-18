@@ -1,7 +1,7 @@
 # Master-s-Thesis
 Conditional Independence Test for Categorical Data towards Causal Discovery and Application in Bibliometrics
 
-Abstract
+Abstract :
 This work describes the design and evaluation of a conditional independence
 test for categorical data towards causal discovery. Conditional independence
 (CI) testing is at the crux of a causal discovery framework. Constraint-based
